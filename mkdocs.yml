@@ -1,5 +1,6 @@
 site_name: Documentation Generalisation Test
 site_dir: public
+site_url: https://nadymvanschaik.github.io/WolfpackTest/
 
 nav:
   - Home: 'index.md'
