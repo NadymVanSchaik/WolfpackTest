@@ -16,4 +16,4 @@ theme:
   palette:
     primary: grey
     accent: red
-    logo: assets/logo.png
+    logo: 'assets/logo.png'
