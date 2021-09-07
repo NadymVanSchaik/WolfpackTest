@@ -10,3 +10,6 @@ nav:
   - Server:
       - Daily: 'server-daily.md'
       - Setup: 'server-setup.md'
+
+theme:
+  name: material
