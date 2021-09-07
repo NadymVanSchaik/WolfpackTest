@@ -13,3 +13,7 @@ nav:
 
 theme:
   name: material
+  palette:
+    primary: grey
+    accent: red
+    logo: assets/logo.png
