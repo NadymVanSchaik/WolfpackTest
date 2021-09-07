@@ -1,0 +1,12 @@
+site_name: Documentation Generalisation Test
+site_dir: public
+
+nav:
+  - Home: 'index.md'
+  - 'Contribution Rules': 'contribution-rules.md'
+  - 'Design Decisions': 'design-decisions.md'
+  - Local:
+      - Daily: 'local-daily.md'
+  - Server:
+      - Daily: 'server-daily.md'
+      - Setup: 'server-setup.md'
